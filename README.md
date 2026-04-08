@@ -10,12 +10,10 @@ Projetado para partidas **Humano vs Máquina**, o projeto combina **correção d
 
 ## 🖥️ Demonstração
 
->  *(<img width="244" height="239" alt="image" src="https://github.com/user-attachments/assets/708ba004-c276-499b-aef0-bb199687ff54" />
-)*
+<img width="244" height="239" alt="image" src="https://github.com/user-attachments/assets/708ba004-c276-499b-aef0-bb199687ff54" />
 
-```text
-[Screenshot do tabuleiro em jogo]
-[GIF curto mostrando uma jogada do jogador e a resposta da IA]
+
+```
 ```
 
 ***
