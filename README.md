@@ -10,7 +10,8 @@ Projetado para partidas **Humano vs Máquina**, o projeto combina **correção d
 
 ## 🖥️ Demonstração
 
-> 📌 *(Adicione aqui 1 ou 2 screenshots e, opcionalmente, um GIF curto do jogo em andamento)*
+>  *(<img width="244" height="239" alt="image" src="https://github.com/user-attachments/assets/708ba004-c276-499b-aef0-bb199687ff54" />
+)*
 
 ```text
 [Screenshot do tabuleiro em jogo]
@@ -172,16 +173,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 *   Ajustes avançados na heurística da IA
 *   Multiplayer local ou online
 *   Interface gráfica mais avançada (menus, temas)
-
-***
-
-### ♟️ Considerações Finais
-
-Este projeto demonstra:
-
-*   Domínio de **algoritmos clássicos de IA**
-*   Correção rigorosa das **regras do xadrez**
-*   Boa arquitetura e separação de responsabilidades
-*   Capacidade de entregar uma **aplicação desktop completa**
 
 ***
