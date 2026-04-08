@@ -184,6 +184,4 @@ Este projeto demonstra:
 *   Boa arquitetura e separação de responsabilidades
 *   Capacidade de entregar uma **aplicação desktop completa**
 
-Ideal como **projeto de portfólio**, **base acadêmica** ou **produto educacional**.
-
 ***
