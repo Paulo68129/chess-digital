@@ -137,11 +137,7 @@ As bibliotecas de terceiros utilizadas (**python-chess**, **pygame**) mantêm as
 
 ## 📜 Licença
 
-Código original desenvolvido por **Paulo Roberto**.
-
-> 📌 Recomenda-se adicionar um ficheiro `
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+Código original desenvolvido por **Paulo Roberto S**.
 
 Copyright (C) 2026 Paulo Roberto
 
